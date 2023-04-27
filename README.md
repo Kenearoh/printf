@@ -1,3 +1,2 @@
-# printf
 ALX COLLABORATION PROJECT1
 0x11. C - printf
